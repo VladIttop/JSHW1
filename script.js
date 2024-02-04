@@ -8,7 +8,7 @@ console.log(name);
 let isStudent = true;
 console.log(isStudent);
 // myString
-let myString = "Помилки, допущені людиною, яка має добрі наміри, — це привід не для сорому, а для навчання.";
+const myString = "Помилки, допущені людиною, яка має добрі наміри, — це привід не для сорому, а для навчання.";
 console.log(myString);
 // myNumber
 const myNumber = 15;

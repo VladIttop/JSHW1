@@ -18,8 +18,8 @@ const myNull = null;
 console.log(myNull);
 
 // Task 1
-const name = prompt("Як тебе звати?", "Влад");
-console.log(name)
+const question = prompt("Як тебе звати?", "Влад");
+console.log(question)
 // Task 2
 const action = confirm("Підтвердити?");
 console.log(action);
